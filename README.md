@@ -1,16 +1,19 @@
-## Hi there 👋
+Brayan Cabral
 
-<!--
-**BrayanCabral/BrayanCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas e desenvolvedor back-end, com 5 anos de trajetória em TI — comecei em infraestrutura e suporte e migrei para desenvolvimento, o que me deu uma leitura de sistema que vai do servidor até a regra de negócio.
 
-Here are some ideas to get you started:
+Hoje, no Grupo Techshop, construo integrações e automações que conectam sistemas corporativos, marketplaces e serviços externos. Meu trabalho normalmente começa em um processo manual, repetitivo e sujeito a erro, e termina em uma rotina automatizada rodando sozinha.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack principal
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,js,mssql,postgres,git,github,docker" alt="Node.js, Python, JavaScript, SQL Server, PostgreSQL, Git, GitHub, Docker" />
+
+APIs REST e integração entre sistemas · SQL Server · Git e GitHub.
+
+Projeto em destaque
+
+BiblioTech — transforma uma pasta de PDFs num acervo pesquisável: catalogação automática (extração de metadados via pypdf), leitor embutido com progresso de leitura por usuário, e um assistente de IA local (Ollama) que recomenda livros do acervo por busca com palavras-chave.
+
+Aberto a trocar ideia sobre back-end, integrações e automação de processos.
+
+📩 brayancbrl@gmail.com · LinkedIn
