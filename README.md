@@ -16,4 +16,4 @@ BiblioTech — transforma uma pasta de PDFs num acervo pesquisável: catalogaç�
 
 Aberto a trocar ideia sobre back-end, integrações e automação de processos.
 
-📩 brayancbrl@gmail.com · LinkedIn
+📩 brayancbrl@gmail.com · LinkedIn (https://www.linkedin.com/in/brayancabral/)
