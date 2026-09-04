@@ -6,7 +6,7 @@ Hoje, no Grupo Techshop, construo integrações e automações que conectam sist
 
 Stack principal
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,js,mssql,postgres,git,github,docker" alt="Node.js, Python, JavaScript, SQL Server, PostgreSQL, Git, GitHub, Docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,js,postgres,git,github,docker" alt="Node.js, Python, JavaScript, PostgreSQL, Git, GitHub, Docker" />
 
 APIs REST e integração entre sistemas · SQL Server · Git e GitHub.
 
